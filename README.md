@@ -74,9 +74,9 @@
   <!-- <a href="https://youtube.com/@trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a> -->
-  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a> -->
+  <a href="https://www.tiktok.com/@heyitsduy24" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/tiktok.png" alt="duydev-tiktok" />
+  </a>
   <a href="https://www.instagram.com/ducduy.281024/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duydev-instagram" />
   </a>
