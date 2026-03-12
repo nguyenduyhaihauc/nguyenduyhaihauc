@@ -78,7 +78,7 @@
     <img src="https://img.icons8.com/bubbles/100/tiktok.png" alt="duydev-tiktok" />
   </a>
   <a href="https://www.instagram.com/ducduy.281024/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duydev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/instagram-new--v2.png" alt="duydev-instagram" />
   </a>
   <a href="mailto:nguyenduyhaihauc@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duydev-email" />
