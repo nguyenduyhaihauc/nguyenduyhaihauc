@@ -86,28 +86,8 @@
 </div>
 
 
-
-<!-- <h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2> -->
 <!-- <br> -->
-<!-- <p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
-    <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | TrungQuanDev</strong>
-  </a>
-</p> -->
-<!-- <p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p> -->
-  <!-- <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | TrungQuanDev</a></strong> -->
-  <!-- <br><br> -->
-  <!-- <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-full-stack-mern-100-du-an-thuc-te-chat-luong/" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong> -->
-  <!-- <br><br> -->
-  <!-- <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/ducduy.281024/</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">nguyenduyhaihauc@gmail.com</a></strong> -->
 </p>
-<!-- <a href="https://youtube.com/@trungquandev" target="_blank">
-  <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
